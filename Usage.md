@@ -1,10 +1,10 @@
-#Usage
+# Usage
 
 To run the game, execute the compiled program from the command line:
 
 ./game
 
-Control the ball using the arrow keys:
+## Control the ball using the arrow keys:
 
 Left arrow key to move left
 Right arrow key to move right
