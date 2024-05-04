@@ -1,8 +1,9 @@
 # Usage
 
 To run the game, execute the compiled program from the command line:
-
+```bash
 ./game
+```
 
 ## Control the ball using the arrow keys:
 
